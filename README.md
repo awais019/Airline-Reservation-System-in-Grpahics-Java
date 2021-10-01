@@ -1,2 +1,2 @@
 # Airline-Reservation-System-in-Grpahics-Java
-It is a GUI bases airline reservation system in java
+It is a GUI basic airline reservation system in java
